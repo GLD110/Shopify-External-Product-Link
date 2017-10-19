@@ -1,0 +1,1 @@
+[25-Sep-2017 13:04:11 UTC] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/thirsub3/public_html/externalproductlinks/functions.php on line 25
