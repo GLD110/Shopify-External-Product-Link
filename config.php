@@ -1,5 +1,4 @@
 <?php
-
 ini_set('always_populate_raw_post_data', '-1');
 error_reporting(E_WARNING);
 session_start();
@@ -22,5 +21,4 @@ define("TRIAL_DAYS", 2);
 define("APP_COST",4.99);
 
 include_once('classes/shopify.php');
-
 ?>
